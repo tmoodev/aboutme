@@ -1,4 +1,3 @@
-# aboutme
 ## Overview
 This project includes my resume, ongoing and completed projects, and other relevant files.
 
