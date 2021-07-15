@@ -1,10 +1,10 @@
 # Travis Moore
 
-## Data Analyst Profile
+## Data Analyst Profile {#profile}
 ---
 **Information Technology executive with experience building database infrastructure and tools to support business initiatives. Deep understanding of the strategic role of IT in both administration and efficiency of a business. Capable of all database functions including ingestion, cleaning, loading, and analyzing. Excellent at synthesizing and communicating data findings. Fluent in R, Python, SQL, JSON and other data programming languages and platforms.**
 
-## Areas of Emphasis
+## Areas of Emphasis (#emphases}
 ---
 - Leadership and Team Building
 - Data Management and Analytics
@@ -15,7 +15,7 @@
 - Business Development
 - Data Pipeline Development
 
-## Certifications and Skills
+## Certifications and Skills {#certs}
 ---
 - CIW Data Analyst
 - CompTIA A+
@@ -28,7 +28,7 @@
 - R and RStudio
 - SQL
 
-## Professional Experience
+## Professional Experience {#experience}
 ---
 ### Western Governors University - Virtual/Remote
 **Program Manager**
@@ -69,13 +69,13 @@ maintenance, invoicing, and sales quotas
 - Collaborated with other stores across the district to increase food safety awareness and improve Department of Health ratings
 - Conducted interviews, onboarding, and training for 50+ retail associates in a new store launch
 
-## Educational Background
+## Educational Background {#education]
 ---
 **Western Governors University, Salt Lake City, UT**
-  Bachelors of Science in Data Management and Analytics
+> Bachelors of Science in Data Management and Analytics
   
 **Indiana Wesleyan University, Marion, IN**
-  Masters of Business Administration - Human Resources Management
+> Masters of Business Administration - Human Resources Management
   
 **Belmont University, Nashville, TN**
-  Bachelors of Business Administration - Marketing
+> Bachelors of Business Administration - Marketing
