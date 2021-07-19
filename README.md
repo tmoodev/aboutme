@@ -1,5 +1,5 @@
 ## Overview
-This project includes my resume :page:, ongoing and completed projects 🔧 , and other relevant files :floppy_disk:.
+This project includes my resume :page_facing_up: , ongoing and completed projects 🔧 , and other relevant files :floppy_disk:.
 
 ## Directions
 
