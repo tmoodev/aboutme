@@ -1,6 +1,6 @@
 ## Overview
-This project includes my resume, ongoing and completed projects, and other relevant files.
+This project includes my resume :page:, ongoing and completed projects 🔧 , and other relevant files :floppy_disk:.
 
 ## Directions
 
-Download the resume. Paruse the code. Email your recruiting partner and let them know you found your person. Start the hiring process.
+Read the about.md file. Download the resume. Paruse the code. Email your recruiting partner and let them know you found your person. Start the hiring process.
