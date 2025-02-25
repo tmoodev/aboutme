@@ -1,81 +1,94 @@
-# Travis Moore
+# Travis Moore  
+**Nashville, TN**
+**Email**: [travis@digitalmoore.com](mailto:travis@digitalmoore.com)
 
-## Data Analyst Profile
 ---
-**Information Technology executive with experience building database infrastructure and tools to support business initiatives. Deep understanding of the strategic role of IT in both administration and efficiency of a business. Capable of all database functions including ingestion, cleaning, loading, and analyzing. Excellent at synthesizing and communicating data findings. Fluent in R, Python, SQL, JSON and other data programming languages and platforms.**
 
-## Areas of Emphasis
----
-- Leadership and Team Building
-- Data Management and Analytics
-- Executive Presentation
-- Change Management
-- Communication
-- Agile Coaching
-- Business Development
-- Data Pipeline Development
+## Data Engineering Profile
 
-## Certifications and Skills
+**Areas of Emphasis**  
+- Azure Data Services  
+- Data Warehousing  
+- Data Marts  
+- Data Mesh  
+- Agile Scrum & Coaching  
+- Process Improvement  
+- Data Automation  
+
+**Certifications & Skills**  
+- Azure Data Certification (DP-900)  
+- CompTIA A+  
+- Axelos ITIL Foundations 4  
+- SQL, Tableau, Power BI  
+- AWS Data Services  
+- CompTIA Network+, Project+  
+- CIW Data Analyst  
+
 ---
-- CIW Data Analyst
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Project+
-- Axelos ITIL Foundations 4
-- Tableau and PowerBI
-- CIW Site Administrator
-- Python
-- R and RStudio
-- SQL
 
 ## Professional Experience
+
+### Newport Healthcare – Nashville, TN  
+**Lead Data Engineer (2022–2025)**  
+- Directed the design, build, and implementation of data & analytics operations across the organization.  
+- Led a team of Power BI developers and IT Data Engineers to deliver business reporting.  
+- Developed fact/dimension modeling, revenue cycle automation, and ODS refresh processes.  
+- Created dashboards for clinical acuity, HR/resource needs, and incident reporting.  
+- Platforms & Skills:  
+  - **Azure Data Factory**, **Azure Data Lake**, **Azure Synapse**, **SQL Data Mart Development**, **Power BI Reporting**, **Azure DevOps**
+
 ---
-### Western Governors University - Virtual/Remote
-**Program Manager**
-*2016-2021*
-- Work cross‐functionally with senior‐level stakeholders, internal and external teams, and other managers to ensure synthesis of data and consistency across operational departments
-- Conduct root cause analysis to solve core business problems; conceive, design, and deliver reports and analyses to key stakeholders
-- Enable effective decision making through retrieval of data from multiple sources allowing for directives that impact critical business initiatives
-- Responsible for bi‐weekly operational reporting providing visibility to the objectives and performance of the program
-- Team consistently scores 20% above target on service interaction surveys
 
-### Byrd Group Two - Nashville, TN
-**Director of Continuous Improvement & HR**
-*2013-2016*
-- Responsible for the design and implementation of a new SaaS (Salesforce) platform and inventory tracking system to support sales, marketing, accounting, and operations from lead generation to close of project
-- Identified potential risks associated with the IT infrastructure and source solutions tocomplex problems
-- Led project to move in‐house servers to cloud‐based platform and provided regular maintenance and support of the organization's computer, server, and cloud services including Office 365, Google Business Suite, OS X, Windows, Salesforce and VoIP Services
-- Streamlined client and vendor domestic and international shipping services
-- Provided internal technical support for 50+ employees
-- Led the Human Resources department which supported 50+ full‐time employees and 200+
-subcontractors
+### Amerigroup – Nashville, TN  
+**Data Change Manager (2021–2022)**  
+- Owned the data roadmap for operational and regulatory reporting.  
+- Built data pipelines, managed data modeling, and led automation for specialized MCO.  
+- Drove Agile BI processes and improvements for organizational analytics.  
+- Platforms & Skills:  
+  - **SQL**, **Tableau**, **Python**, **Advanced Excel**
 
-### Hal Leonard - Nashville, TN
-**Regional Accounts Manager**
-*2010-2013*
-- Created and implemented a development program for call center account managers
-- Worked closely with team leaders to ensure development metrics were being met foreach
-representative on their team
-- Designed new program and product launch training for call center sales representatives for
-professional development
-- Created daily and weekly routines to ensure all metrics were being met including account
-maintenance, invoicing, and sales quotas
-
-### Target Corporation
-**Executive Team Leader**
-*2007-2010*
-- Prepared payroll and inventory budgets for multiple departments and analyzed data to forecast future business needs
-- Ensured proper documentation for succession planning and corrective action for five retail departments
-- Collaborated with other stores across the district to increase food safety awareness and improve Department of Health ratings
-- Conducted interviews, onboarding, and training for 50+ retail associates in a new store launch
-
-## Educational Background
 ---
-**Western Governors University, Salt Lake City, UT**
-> Bachelors of Science in Data Management and Analytics
-  
-**Indiana Wesleyan University, Marion, IN**
-> Masters of Business Administration - Human Resources Management
-  
-**Belmont University, Nashville, TN**
-> Bachelors of Business Administration - Marketing
+
+### Apex Systems – Boston, MA (Remote)  
+**Developer/Project Manager (2021–2022)**  
+- Managed integration solutions and BI platform remediation during an SAP transition.  
+- Drove project management, Agile BI development, and SQL automation.  
+- Coordinated with cross-functional teams to ensure timely data deliverables.  
+- Platforms & Skills:  
+  - **Azure DevOps**, **SAP S/4 HANA**, **TIBCO WebFOCUS**, **Oracle**
+
+---
+
+### Western Governors University – Remote  
+**Program Manager – Undergraduate Business (2016–2021)**  
+- Worked cross-functionally to ensure consistent data usage across multiple departments.  
+- Led a team gathering requirements, designing, and delivering reports to key stakeholders.  
+- Platforms & Skills:  
+  - **Power BI**, **SQL**
+
+---
+
+### Byrd Group Two – Nashville, TN  
+**Director of Continuous Improvement & HR (2013–2016)**  
+- Implemented new SaaS (Salesforce) and inventory tracking systems.  
+- Oversaw cloud migration for in-house servers and managed user support (Office 365, Google Suite).  
+
+### Hal Leonard – Nashville, TN  
+**Regional Account Manager (2010–2013)**  
+- Managed regional sales accounts and created daily/weekly metrics tracking routines.  
+
+### Target Corporation – Nashville, TN  
+**Executive Team Leader (2007–2010)**  
+- Led grocery department operations in a newly opened Super Target location.  
+
+---
+
+## Education
+
+- **Bachelor of Science in Data Management & Analytics** – Western Governors University  
+- **Master of Business Administration in Human Resources Management** – Indiana Wesleyan University  
+- **Bachelor of Business Administration** – Belmont University  
+
+---
+
+**References available upon request.**
